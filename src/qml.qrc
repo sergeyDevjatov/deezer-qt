@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>PlayerWindow.qml</file>
+        <file>AnotherWindow.qml</file>
+        <file>UnnamedWindow.qml</file>
+        <file>IconButton.qml</file>
+        <file>assets/icons/player/next.svg</file>
+        <file>assets/icons/player/prev.svg</file>
+        <file>assets/icons/player/play.svg</file>
+        <file>assets/icons/player/pause.svg</file>
+    </qresource>
+</RCC>
